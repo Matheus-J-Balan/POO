@@ -1,0 +1,15 @@
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\bin\Debug\net6.0\POO_Abstracao.exe
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\bin\Debug\net6.0\POO_Abstracao.deps.json
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\bin\Debug\net6.0\POO_Abstracao.runtimeconfig.json
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\bin\Debug\net6.0\POO_Abstracao.dll
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\bin\Debug\net6.0\POO_Abstracao.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.AssemblyInfo.cs
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.dll
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\refint\POO_Abstracao.dll
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\POO_Abstracao.genruntimeconfig.cache
+C:\xampp\htdocs\GitHub\POO\POO_Abstracao\obj\Debug\net6.0\ref\POO_Abstracao.dll
