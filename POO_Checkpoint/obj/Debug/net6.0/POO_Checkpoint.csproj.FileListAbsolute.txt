@@ -1,0 +1,15 @@
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.AssemblyInfo.cs
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\bin\Debug\net6.0\POO_Checkpoint.exe
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\bin\Debug\net6.0\POO_Checkpoint.deps.json
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\bin\Debug\net6.0\POO_Checkpoint.runtimeconfig.json
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\bin\Debug\net6.0\POO_Checkpoint.dll
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\bin\Debug\net6.0\POO_Checkpoint.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.dll
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\refint\POO_Checkpoint.dll
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\POO_Checkpoint.genruntimeconfig.cache
+C:\xampp\htdocs\GitHub\POO\POO_Checkpoint\obj\Debug\net6.0\ref\POO_Checkpoint.dll
