@@ -1,0 +1,15 @@
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\bin\Debug\net6.0\POO_Heranca.exe
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\bin\Debug\net6.0\POO_Heranca.deps.json
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\bin\Debug\net6.0\POO_Heranca.runtimeconfig.json
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\bin\Debug\net6.0\POO_Heranca.dll
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\bin\Debug\net6.0\POO_Heranca.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.AssemblyInfo.cs
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.dll
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\refint\POO_Heranca.dll
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\POO_Heranca.genruntimeconfig.cache
+C:\xampp\htdocs\GitHub\POO\POO_Heranca\obj\Debug\net6.0\ref\POO_Heranca.dll
