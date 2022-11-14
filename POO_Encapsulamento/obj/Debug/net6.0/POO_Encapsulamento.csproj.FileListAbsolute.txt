@@ -1,0 +1,15 @@
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\bin\Debug\net6.0\POO_Encapsulamento.exe
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\bin\Debug\net6.0\POO_Encapsulamento.deps.json
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\bin\Debug\net6.0\POO_Encapsulamento.runtimeconfig.json
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\bin\Debug\net6.0\POO_Encapsulamento.dll
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\bin\Debug\net6.0\POO_Encapsulamento.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.AssemblyInfo.cs
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.dll
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\refint\POO_Encapsulamento.dll
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.pdb
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\POO_Encapsulamento.genruntimeconfig.cache
+C:\xampp\htdocs\GitHub\POO\POO_Encapsulamento\obj\Debug\net6.0\ref\POO_Encapsulamento.dll
