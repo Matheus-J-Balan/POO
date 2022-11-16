@@ -1,0 +1,15 @@
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\bin\Debug\net6.0\POO_Poli_Tempo_Execucao.exe
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\bin\Debug\net6.0\POO_Poli_Tempo_Execucao.deps.json
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\bin\Debug\net6.0\POO_Poli_Tempo_Execucao.runtimeconfig.json
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\bin\Debug\net6.0\POO_Poli_Tempo_Execucao.dll
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\bin\Debug\net6.0\POO_Poli_Tempo_Execucao.pdb
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.csproj.AssemblyReference.cache
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.AssemblyInfo.cs
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.dll
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\refint\POO_Poli_Tempo_Execucao.dll
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.pdb
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\POO_Poli_Tempo_Execucao.genruntimeconfig.cache
+C:\xampp\htdocs\POO\POO_Poli_Tempo_Execucao\obj\Debug\net6.0\ref\POO_Poli_Tempo_Execucao.dll
