@@ -5,15 +5,24 @@ using System.Threading.Tasks;
 
 namespace POO_Checkpoint.models
 {
-    public class ContaPoupanca
+    public class ContaPoupanca : Conta, IConta
     {
-        public string? nome { get; set; }
-        public int numero { get; set; }
-        public int agencia { get; set; }
-        public double saldo { get; set; }
-        public double juros { get; set; }
-        public void Depositar(){
-            saldo = saldo + juros;
+        public double Juros { get; set; }
+
+        public override void ExibirTipoDeConta()
+        {
+            Console.WriteLine("Conta Poupança");
+        }
+
+        public override void ExibirResumoConta()
+        {
+            base.ExibirResumoConta();
+            Console.WriteLine($"Juros: {Juros}");
+        }
+
+        public void EncerrarConta()
+        {
+            Console.WriteLine("Encerrando a conta poupança");
         }
     }
 }

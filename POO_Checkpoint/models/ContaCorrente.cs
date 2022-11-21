@@ -5,23 +5,29 @@ using System.Threading.Tasks;
 
 namespace POO_Checkpoint.models
 {
-    public class ContaCorrente
+    public class ContaCorrente : Conta, IConta
     {
-        public string? nome { get; set; }
-        public int numero { get; set; }
-        public int agencia { get; set; }
-        public double saldo { get; set; }
-        public double tarifa { get; set; }
+        public double Tarifa { get; set; }
 
-        public void Depositar(double valor){
-            saldo = saldo + valor;
+        public override void ExibirTipoDeConta()
+        {
+            base.ExibirResumoConta();
+            Console.WriteLine("Conta Corrente");
         }
 
-        public void ExibirResumoConta(){
-            Console.WriteLine($"Correntista: {nome}");
-            Console.WriteLine($"Numero: {numero}");
-            Console.WriteLine($"Agência: {agencia}");  
-            Console.WriteLine($"Saldo: {saldo}");
+        public override void ExibirResumoConta()
+        {
+            base.ExibirResumoConta();
+            Console.WriteLine($"Tarifa: {Tarifa}");
         }
+
+        public void EncerrarConta()
+        {
+            Console.WriteLine("Encerrando a conta corrente");
+        }
+    }
+
+    internal interface IConta
+    {
     }
 }

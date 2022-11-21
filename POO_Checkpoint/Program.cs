@@ -1,11 +1,22 @@
 ﻿using POO_Checkpoint.models;
 
-ContaCorrente contaC = new ContaCorrente();
+ContaCorrente c1 = new ContaCorrente();
+c1.Nome = "Matheus";
+c1.Numero = 1234;
+c1.Agencia = 1111;
+c1.Tarifa = 2;
+c1.Depositar(100);
+c1.ExibirResumoConta();
+//c1.ExibirTipoDeConta();
 
-contaC.nome = "Matheus";
-contaC.agencia = 123;
-contaC.numero = 3586;
-contaC.saldo = 200;
-contaC.tarifa = 15;
-contaC.Depositar(400);  
-contaC.ExibirResumoConta();
+Console.WriteLine("\n");
+
+ContaPoupanca c2 = new ContaPoupanca();
+c2.Nome = "Ronald";
+c2.Numero = 4987;
+c2.Agencia = 2222;
+c2.Juros = 15;
+c2.Depositar(200);
+c2.ExibirResumoConta();
+
+//c2.ExibirTipoDeConta();
